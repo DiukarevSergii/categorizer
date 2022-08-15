@@ -1,6 +1,6 @@
-package com.p39.categorizer.api.rest.v1.service;
+package com.categorizer.api.rest.v1.service;
 
-import com.p39.categorizer.KeywordCategoryManager;
+import com.categorizer.KeywordCategoryManager;
 import org.ahocorasick.trie.PayloadEmit;
 import org.ahocorasick.trie.PayloadTrie;
 import org.apache.logging.log4j.LogManager;

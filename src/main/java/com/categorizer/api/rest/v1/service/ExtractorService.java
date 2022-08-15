@@ -1,4 +1,4 @@
-package com.p39.categorizer.api.rest.v1.service;
+package com.categorizer.api.rest.v1.service;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

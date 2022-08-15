@@ -1,4 +1,4 @@
-package com.p39.categorizer.api.rest.v1.dto;
+package com.categorizer.api.rest.v1.dto;
 
 import java.util.List;
 import java.util.Set;

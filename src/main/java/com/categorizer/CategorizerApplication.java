@@ -1,4 +1,4 @@
-package com.p39.categorizer;
+package com.categorizer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

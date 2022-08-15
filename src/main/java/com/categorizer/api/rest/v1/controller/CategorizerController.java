@@ -1,8 +1,8 @@
-package com.p39.categorizer.api.rest.v1.controller;
+package com.categorizer.api.rest.v1.controller;
 
-import com.p39.categorizer.api.rest.v1.dto.KeywordCategoryDTO;
-import com.p39.categorizer.api.rest.v1.service.Categorizer;
-import com.p39.categorizer.api.rest.v1.service.Extractor;
+import com.categorizer.api.rest.v1.service.Extractor;
+import com.categorizer.api.rest.v1.dto.KeywordCategoryDTO;
+import com.categorizer.api.rest.v1.service.Categorizer;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
