@@ -1,5 +1,5 @@
 
-# Part 2: Categorizer
+# Categorizer
 
 A system that categorizes web pages based on a keyword category.
 Categorized mechanizm based on Aho-Corasick Search library 
