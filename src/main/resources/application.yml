@@ -1,0 +1,22 @@
+app-configuration:
+  categoryKeywordsMapping:
+    '[Peer39]':
+      - Peer39
+      - Advisor
+      - Advanced Contextual Data
+      - Contextual Data Marketplace
+      - Tools for Planning
+    '[Star Wars]':
+      - starwar
+      - star war
+      - star wars
+      - starwars
+      - r2d2
+      - may the force be with you
+    '[Basketball]':
+      - basketball
+      - nba
+      - ncaa
+      - lebron james
+      - john stokton
+      - anthony davis
